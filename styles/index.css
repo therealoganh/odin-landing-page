@@ -1,8 +1,7 @@
-.header {
+.container {
     background-color: #1F2937;
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    justify-content: space-between;
     font-family: "Roboto";
 }
 
