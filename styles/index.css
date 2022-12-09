@@ -1,0 +1,18 @@
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: "Roboto";
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 700;
+}
+
+.links {
+    font-size: 18px;
+    color: #E5E7EB;
+}
